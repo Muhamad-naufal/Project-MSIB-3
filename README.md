@@ -1,2 +1,3 @@
 # Project-MSIB-3
-Tugas Project Akhir
+Berisi Tugas dan Materi pada pembelajaran MSIB 3
+
