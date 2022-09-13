@@ -5,7 +5,7 @@ import speech_recognition as sr
 engine = sr.Recognizer()
 mic = sr.Microphone()
 hasil = ''
-engine.pause_threshold = 0.5
+engine.pause_threshold = 5
 
 #input dan proses
 with mic as source:
