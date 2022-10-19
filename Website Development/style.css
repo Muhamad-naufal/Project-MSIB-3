@@ -1,0 +1,26 @@
+
+#home {
+    height: 650px;
+    padding: 50px 0;
+}
+.nama {
+    font-family: 'Roboto Mono', monospace;
+}
+.text1 {
+    margin-top: 20px;
+}
+.form{
+    font-weight: bold;
+    padding: 20px 0;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.btn {
+    margin-left: 1035px;
+}
+.image{
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 400px;
+    height: 500px;
+}
